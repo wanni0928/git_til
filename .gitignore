@@ -165,5 +165,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+# custom
+.idea/**
 # End of https://www.toptal.com/developers/gitignore/api/windows,vim,hexo,java-web,node

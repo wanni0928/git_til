@@ -1,1 +1,4 @@
-# git_til
+# Git Today I Learned
+
+## Index
+- Studies
